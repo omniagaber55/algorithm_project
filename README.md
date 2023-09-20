@@ -1,2 +1,2 @@
 # algo_project
-in insertion sort project,please seperate the numbers in array with spaces only(not any other symbols).
+<h3>This is the progect of algorithm course. </h3>
